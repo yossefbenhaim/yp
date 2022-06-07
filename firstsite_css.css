@@ -1,0 +1,167 @@
+body {
+    background-color: #fafdfd;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+  
+}
+
+h1 {
+    font-family: 'Sacramento', cursive; 
+}
+
+p {
+    line-height: 2;
+}
+
+h2 {  
+    
+    color: #66BFBF;
+    font-weight: bolder;
+}
+
+h3 {
+    font-weight: bold;
+    color: #66BFBF;    
+}
+
+hr {
+    border: dotted  #EAF6F6 6px;
+    border-bottom: none;
+    width: 6%;
+    margin: 30px auto;
+   
+  }
+
+.image_mountain {
+    width:40%;
+    margin: 0 auto 0 auto;
+    margin-top: -60px;
+}
+
+.image_cloud_left {
+    width: 6%;;
+    height: 9%;
+    margin-left: 600px;
+    margin-bottom: -60px;
+}
+
+.image_cloud_right {
+    width: 6%;;
+    height: 9%;
+    margin-bottom: 35%;
+    margin-left: -30px;
+    margin-top: -55px;
+
+    
+}
+
+.text_titel {
+  font-size: 5.625rem;
+  margin: 50px 0 auto 0 auto;
+  color: #66BFBF;
+  font-weight: 2;
+  
+}
+
+.text {
+  margin-top: -55px;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+.hello_row {
+    width: 30%;
+    margin: auto;
+}
+
+.div_image {
+    width: 100%;
+    margin:0px 0 100px 0;  
+    background-color: #cdeaea;
+}
+
+.image_user {
+    width: 20%;
+  
+}
+
+.image_skile_left {
+    width: 18%;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 10px;  
+}
+
+.image_skile_right {
+    width: 18%;
+    float: right;
+    margin-right: 30px;
+    margin-bottom: 10px;
+ 
+   
+}
+
+.image_world {
+    width: 20%;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.contact-me {
+
+    width:40% ;
+    margin: 40PX auto 60px;
+}
+
+.myButton {
+	box-shadow: 0px 0px 17px -1px #768dcc;
+	background:linear-gradient(to bottom, #6abbcf 5%, #71b2bd 100%);
+	background-color:#6abbcf;
+	border-radius:11px;
+	display:inline-block;
+	cursor:pointer;
+	color:#fafafa;
+	font-family:Arial;
+	font-size:23px;
+	padding:10px 21px;
+	text-decoration:none;
+	text-shadow:0px 0px 3px #305ac7;
+}
+
+.myButton:hover {
+	background:linear-gradient(to bottom, #71b2bd 5%, #6abbcf 100%);
+	background-color:#71b2bd;
+}
+
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50PX 0 20px;
+}
+
+a {
+    color:#11999E;
+    font-family: 'Merriweather', serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+.copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0; 
+}
